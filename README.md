@@ -19,6 +19,6 @@
   + Thay đổi trạng thái đơn hàng
 
 Một số thư viện được sử dụng:
-- Front-end: Reactjs, redux, axios, formik, yup, styled-components, material-ui
-- Back-end: NodeJS(express), multer, socket.io, jsonwebtoken,...
+- Front-end: Reactjs, redux, axios, formik, yup, styled-components, material-ui.
+- Back-end: NodeJS(express), multer, socket.io, jsonwebtoken.
  
